@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <div class="bg-container1">
+        <div class="bg-container2">
+            <div>
+                <div class="images">
+                    <div class="img image1">
+                        <h1>MarKeting Strategies</h1>
+                        <button class="button">Know more</button>
+                    </div>
+                </div>
+                <div class="img image2">
+                    <h1>coffee</h1>
+                    <button class="button">Know more</button>
+                </div>
+            </div>
+            <div class="img image3">
+                <h1>Fruites</h1>
+                <button class="button">Know more</button>
+            </div>
+            <div class="img image6">
+                <h1>Laptop</h1>
+                <button class="button">Know more</button>
+            </div>
+            <div class="img image4">
+                <h1>Nature</h1>
+                <button class="button">Know more</button>
+            </div>
+            <div class="img image5">
+                <h1>Interior</h1>
+                <button class="button">Know more</button>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
